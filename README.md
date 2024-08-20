@@ -24,6 +24,7 @@ A series of workshops bringing together research engineers working on tools for 
 
 * [Openly Published Environmental Sensing](https://open-sensing.org/) Oregon State, College of Agricultural Sciences. "_From soldering stations to 3D printers to laser cutters, our lab provides the tools necessary for students, professors, and researchers alike to develop tools used locally and worldwide by the ecological science and engineering community._"
 * [EnviroDIY](https://www.envirodiy.org/) - Stroud Water Research Center
+* [Bristol Wireless](https://www.bristolwireless.net/) - Social enterprise to build a LoRaWAN/IoT backbone for Bristol, evolving from community wifi
 
 ### Sampling devices
 
