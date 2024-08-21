@@ -12,7 +12,8 @@ Document the experience and cumulatively write a blueprint for running an equiva
 
 Workshop attendees (probably no more than 12-15 per site) are each provided a small starter kit (base board, battery) and a choice of a collection of sensors.
 
-Series of several workshops, ideally on sequential days during the same week, geographically distributed throughout the UK - either three or four depending on budget and local organising capacity.
+## Location and timing
+Series of several workshops, ideally on sequential days during the same week, during late Spring 2025, geographically distributed throughout the UK - either three or four depending on budget and local organising capacity.
 
 * Edinburgh (workshop space in either the UK Centre for Ecology and Hydrology, or the Edinburgh Hacklab in the Summerhall arts complex
 * Bristol (Bristol Wireless / Bristol hackspace)
