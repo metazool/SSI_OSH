@@ -18,6 +18,7 @@ _Notes to hit_: Better * for better research; reliable, reusable. Essential skil
 Past advocacy and organising work in adjacent fields
 "improve research or _computational practise_"
 Connection to SSI initiatives and past fellowships on computing environmental sustainability 
+"Different backgrounds, new ideas, ambitious" - promising rhetoric... "how are you going to make an impact and where are you going to make it"
 
 For the workshop outline - judgement criteria are its end goals "SMART" and does it demonstrate a clear understanding of the bigger picture in which it's placed
 
