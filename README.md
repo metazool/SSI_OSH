@@ -17,6 +17,7 @@ This requires a 6 minute recorded voiceover slideshow presentation which include
 _Notes to hit_: Better * for better research; reliable, reusable. Essential skills, communities of practise, "supporting the right people". Promote best practises. _Infrastructure_ is in scope. Field sensor nets as Digital Research Infrastructure. FOSS principles apply to hardware (is there an Open Definition moral equivalent?)
 Past advocacy and organising work in adjacent fields
 "improve research or _computational practise_"
+Connection to SSI initiatives and past fellowships on computing environmental sustainability 
 
 For the workshop outline - judgement criteria are its end goals "SMART" and does it demonstrate a clear understanding of the bigger picture in which it's placed
 
