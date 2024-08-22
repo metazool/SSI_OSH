@@ -4,7 +4,7 @@ Notes and links supporting an Open Source Hardware themed application to the SSI
 
 The Fellowship scheme offers participants a £4K bursary, intended mainly to be used to organise or participate in workshops and events.
 
-## Micro pitch
+## Micro pitch - "Open Source Hardware for Environmental Monitoring"
 
 A series of [workshops](WORKSHOPS.md) bringing together research engineers working on tools for environmental sensor data analysis, and open source hardware and networking enthusiasts working on low-power, low-bandwidth micro devices. Discuss and document potential novel applications while simultaneously engaged in a hands-on prototyping exercises, with most of the workshop budget going towards a small repurposable kit per attendee. Workshops to run over the course of a week (likely in late Spring 2025) in three or four different locations across the UK.
 
