@@ -12,9 +12,13 @@ A series of [workshops](WORKSHOPS.md) bringing together research engineers worki
 
 * [SSI Fellowship programme 2025](https://www.software.ac.uk/news/ssi-fellowship-programme-2025-applications-now-open)
 
-_Notes to hit_: Better * for better research; reliable, reusable. Essential skills, communities of practise, "supporting the right people". 
+This requires a 6 minute recorded voiceover slideshow presentation which includes 2 minutes self-promotion and professional context setting
 
+_Notes to hit_: Better * for better research; reliable, reusable. Essential skills, communities of practise, "supporting the right people". Promote best practises. _Infrastructure_ is in scope. Field sensor nets as Digital Research Infrastructure. FOSS principles apply to hardware (is there an Open Definition moral equivalent?)
+Past advocacy and organising work in adjacent fields
+"improve research or _computational practise_"
 
+For the workshop outline - judgement criteria are its end goals "SMART" and does it demonstrate a clear understanding of the bigger picture in which it's placed
 
 ## Prior art 
 
