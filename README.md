@@ -12,6 +12,10 @@ A series of [workshops](WORKSHOPS.md) bringing together research engineers worki
 
 * [SSI Fellowship programme 2025](https://www.software.ac.uk/news/ssi-fellowship-programme-2025-applications-now-open)
 
+_Notes to hit_: Better * for better research; reliable, reusable. Essential skills, communities of practise, "supporting the right people". 
+
+
+
 ## Prior art 
 
 ### Workshops and seminars
