@@ -29,6 +29,8 @@ For the workshop outline - judgement criteria are its end goals "SMART" and does
 * [Wave Farm residency](https://zachpoff.com/artwork/wave-farm-residency-2013/?highlight=hydrophone%20experiments) - 2013 New York State workshop by Zach Poff and N.B. Aldrich, lightweight sensor building, smartphone based
 * [Wuthering Bytes / Open Source Hardware Camp](https://wutheringbytes.com/news/2024/open-source-hardware-camp-2024-programme-announced) 2024
 * ["The Three Ingredients for Scaling-Up Water Sensor Networks: People, Platform, and Protocols"](https://digitalenvironment.org/cde-webinar-dr-scott-ensign-and-shannon-hicks/) - NERC seminar covering EnviroDIY / WikiWatershed, see below
+* [Gathering for Open Science Hardware](https://openhardware.science/)
+  
   
 ### Labs and Networks
 
