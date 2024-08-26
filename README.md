@@ -37,6 +37,7 @@ For the workshop outline - judgement criteria are its end goals "SMART" and does
 * [Openly Published Environmental Sensing](https://open-sensing.org/) Oregon State, College of Agricultural Sciences. "_From soldering stations to 3D printers to laser cutters, our lab provides the tools necessary for students, professors, and researchers alike to develop tools used locally and worldwide by the ecological science and engineering community._"
 * [EnviroDIY](https://www.envirodiy.org/) - Stroud Water Research Center
 * [Bristol Wireless](https://www.bristolwireless.net/) - Social enterprise to build a LoRaWAN/IoT backbone for Bristol, evolving from community wifi
+* [BreathLondon](https://www.breathelondon.org/) - London Air Quality monitoring community network run by the Environmental Research Group, at Imperial College London
 
 ### Sampling devices
 
@@ -45,4 +46,3 @@ For the workshop outline - judgement criteria are its end goals "SMART" and does
 * [PiZero Air Quality Sensor](https://www.cemac.leeds.ac.uk/home/project-summaries/sensormon/pi-zero-portable-air-quality-sensor-construction-in-10-simple-steps/) DIY temperature and humidity sensor based on Raspberry Pi zero
 * [Airgradient](https://www.airgradient.com/documentation/diy/) DIY sensor that measures temperature, humidity, CO2 and particulate matter.
 * [EmonPi](https://github.com/openenergymonitor/emonpi) Energy monitoring sensor based on Raspbery Pi (not required but comes with its own [software stack](https://github.com/emoncms/emoncms)
-
