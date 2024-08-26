@@ -42,3 +42,7 @@ For the workshop outline - judgement criteria are its end goals "SMART" and does
 
 * [Mayfly](https://www.envirodiy.org/mayfly/) data logger, "comprised of sensors for measuring conductivity, temperature, depth, and turbidity"
 * [AudioMoth](https://www.openacousticdevices.info/audiomoth) low-cost, full-spectrum acoustic logger, ultrasonic frequencies, underwater plans
+* [PiZero Air Quality Sensor](https://www.cemac.leeds.ac.uk/home/project-summaries/sensormon/pi-zero-portable-air-quality-sensor-construction-in-10-simple-steps/) DIY temperature and humidity sensor based on Raspberry Pi zero
+* [Airgradient](https://www.airgradient.com/documentation/diy/) DIY sensor that measures temperature, humidity, CO2 and particulate matter.
+* [EmonPi](https://github.com/openenergymonitor/emonpi) Energy monitoring sensor based on Raspbery Pi (not required but comes with its own [software stack](https://github.com/emoncms/emoncms)
+
