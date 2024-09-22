@@ -10,6 +10,8 @@ Thank you for your consideration! My name is Jo, I'm a software engineer by back
 
  I'm now working in a newly established Research Software Engineering team at the UK Centre for Ecology and Hydrology, an environmental research not-for-profit that was once part of NERC. Our team's role is to look across different areas of science specialisms, find common ground and build reusable services as part of "digital research infrastructure".
 
+## Concept 
+
 There's a lot of activity there in technology-driven forms of land-based environmental monitoring - "camera traps", sound sensors both above and below ground, the chemical composition of soil, air and water. It's complemented by aerial and satellite sensors, and by lab-based analysis of physical samples. Key to the ethos of UKCEH is investment in open source and open data. There are pockets of hardware innovation, influenced by a wider movement of open science hardware and "citizen science" ecological monitoring projects. 
 
 Buying in proprietary sensors restricts the range of invention. Ease of access to and reuse of computer vision models leads to a "stick a camera on it" approach to monitoring. Bioacoustics is an emerging field of much interest, but people see it as classification of sound features.

@@ -2,6 +2,7 @@
 
 _Outline of a proposed programme for workshop activity_
 
+
 ## Aims
 
 Bring together field engineers and researchers working on environmental monitoring, with enthusiast makers working on low-cost, low-power open source hardware and local networks.
@@ -10,7 +11,7 @@ Create some small-scale prototypes, identify through discussion sensors and site
 
 Document the experience and cumulatively write a blueprint for running an equivalent workshop in other venues.
 
-Workshop attendees (probably no more than 12-15 per site) are each provided a small starter kit (base board, battery) and a choice of a collection of sensors.
+Workshop attendees (probably no more than 12 per site) are each provided a small starter kit (base board, battery) and a choice of a collection of sensors.
 
 ## Location and timing
 Series of several workshops, ideally on sequential days during the same week, during late Spring 2025, geographically distributed throughout the UK - either three or four depending on budget and local organising capacity.
