@@ -8,19 +8,8 @@ The Fellowship scheme offers participants a £4K bursary, intended mainly to be 
 
 A series of [workshops](WORKSHOPS.md) bringing together research engineers working on tools for environmental sensor data analysis, and open source hardware and networking enthusiasts working on low-power, low-bandwidth micro devices. Discuss and document potential novel applications while simultaneously engaged in a hands-on prototyping exercises, with most of the workshop budget going towards a small repurposable kit per attendee. Workshops to run over the course of a week (likely in late Spring 2025) in three or four different locations across the UK.
 
-## SSI scheme and context
 
-* [SSI Fellowship programme 2025](https://www.software.ac.uk/news/ssi-fellowship-programme-2025-applications-now-open)
 
-This requires a 6 minute recorded voiceover slideshow presentation which includes 2 minutes self-promotion and professional context setting
-
-_Notes to hit_: Better * for better research; reliable, reusable. Essential skills, communities of practise, "supporting the right people". Promote best practises. _Infrastructure_ is in scope. Field sensor nets as Digital Research Infrastructure. FOSS principles apply to hardware (is there an Open Definition moral equivalent?)
-Past advocacy and organising work in adjacent fields
-"improve research or _computational practise_"
-Connection to SSI initiatives and past fellowships on computing environmental sustainability 
-"Different backgrounds, new ideas, ambitious" - promising rhetoric... "how are you going to make an impact and where are you going to make it"
-
-For the workshop outline - judgement criteria are its end goals "SMART" and does it demonstrate a clear understanding of the bigger picture in which it's placed
 
 ## Prior art 
 
@@ -46,3 +35,28 @@ For the workshop outline - judgement criteria are its end goals "SMART" and does
 * [PiZero Air Quality Sensor](https://www.cemac.leeds.ac.uk/home/project-summaries/sensormon/pi-zero-portable-air-quality-sensor-construction-in-10-simple-steps/) DIY temperature and humidity sensor based on Raspberry Pi zero
 * [Airgradient](https://www.airgradient.com/documentation/diy/) DIY sensor that measures temperature, humidity, CO2 and particulate matter.
 * [EmonPi](https://github.com/openenergymonitor/emonpi) Energy monitoring sensor based on Raspbery Pi (not required but comes with its own [software stack](https://github.com/emoncms/emoncms)
+
+## SSI scheme and application 
+
+* [SSI Fellowship programme 2025](https://www.software.ac.uk/news/ssi-fellowship-programme-2025-applications-now-open)
+
+This required a 6 minute recorded voiceover slideshow presentation which includes 2 minutes self-promotion and professional context setting.
+
+### Presentation
+
+[Quarto presentation markdown](index.qmd)
+
+* [Install Quarto from packages](https://quarto.org/docs/download/index.html) 
+
+```
+wget https://github.com/quarto-dev/quarto-cli/releases/download/v1.5.57/quarto-1.5.57-linux-amd64.deb
+dpkg -i quarto-1.5.57-linux-amd64.deb
+```
+
+* [Install reveal.js from git repository](https://revealjs.com/installation/) - follow the "Full Setup" instructions
+
+* With `index.qmd` copied into the `reveal.js` directory, run `quarto render index.qmd --to revealjs`
+
+
+
+
