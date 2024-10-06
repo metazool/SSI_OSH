@@ -6,18 +6,27 @@ date: 22-09-2024
 
 _Note: 6 minute timing requirement is tight, so writing it all out. "1 min. on professional background, 1 min on job role" and implicit networks, 4 mins on proposed Fellowship activity_
 
-Hello there! My name is Jo, I'm one of those RSEs with a software engineering background, not a research one. I've been working closely with research teams for the past half decade. This is my first explicit RSE role, helping establish a new group at the UK Centre for Ecology and Hydrology. UKCEH is an environmental research not-for-profit that once formed part of NERC [wording from the 100 days talk here]
+Hello there! My name is Jo, I'm one of those RSEs with a software engineering background, not a research one, though I've been working closely with research teams for the past half decade. I'm now in my first explicit RSE role, helping establish a new group at the UK Centre for Ecology and Hydrology. UKCEH is an environmental research not-for-profit that once formed part of NERC, and still runs its Environmental Information Data Centre; it hosts 600 researchers working in different science specialisms - Atmospheric chemistry, Biodiversity, Hydro-climate risks, Pollution, Soils and land use and Water resources.
 We've got ambitious plans for joining the dots between science specialisms with next-generation Digital Research Infrastructure.
 
 Through my career I've done a lot of open source geospatial and open data work; my most active phase was 20 years ago! I was on the board of both the Open Source Geospatial Foundation and the Open Knowledge Foundation. Through the latter, I co-organised and ran quite a workshops and conference track on an Open Geodata theme - this picture shows me at "Map Limehouse", the first OpenStreetmap mapping party.
+While at the British Geological Survey, I worked with colleagues both to release and adopt open source software for geoscience research, and it's been wonderful to hear how this effort has developed.
 
-## Concept 
+## Concept
 
-There's a lot of activity technology-driven forms of land-based environmental monitoring - "camera traps", sound sensors both above and below ground, the chemical composition of soil, air and water. It's complemented by aerial and satellite sensors, and by lab-based analysis of physical samples. "Digital Research Infrastructure" investment supports open source software and open data - but neglects open source hardware. A wider movement of open science hardware and "citizen science" ecological monitoring projects is out there, but doesn't form part of high-profile research investment.
+New sensor technology offers us new ways to measure and manage change in our environment. "Camera traps" for wildlife, soundscapes recorded both above and below ground, the chemical composition of soil, air and water. It's complemented by aerial and satellite sensors, and by lab-based analysis of physical samples. 
 
-Buying in proprietary sensors restricts the range of invention, and the possibility of novel research insight. Ease of access to and reuse of computer vision models leads to pervasive a "stick a camera on it" approach to monitoring. Questions focus on what the camera can sense, rather than the forces creating change in the environment. Bioacoustics is an emerging field of much interest, but people tend to see it as classification of sound features. There are so many kinds of sensing, and different potential kinds of sensing devices!
+Investment in "Digital Research Infrastructure" is about open science. This means open source software, reproducible analysis, and open data. Open source hardware - public inventions that anyone can reproduce and re-use for unexpected purposes - should be part of this picture, but it isn't! Research investment goes into proprietary devices, with extra licence fees for full functionality.
 
-I'm making this application to the SSI Fellowship scheme because to draw out the implicit picture of low-cost, low-power, open source options for environmental projects. I'd use the fund to support interactive, hands-on workshops that bring together people from two different worlds that I have a foot in - research experts and field engineers in environmental science, in tune with the practial issues of deployment (like sheep trying to eat your sensors!) - and creative technologists and hobbyist inventors in the network of hackerspaces.
+A wider movement of open science hardware and "citizen science" ecological monitoring projects is out there.
+
+[add visual example]
+
+Buying in proprietary sensors restricts the range of invention, and the possibility of novel research insight. If all we have is a camera, we focus through computer vision. There are so many forces beyond the visible that create change in our environment. Bioacoustics is an emerging field of much interest - listening to a landscape, and sensing change in it. There are so many kinds of sensing, and different potential kinds of sensing device
+
+I'm making this application to the SSI Fellowship scheme because to I'd like to draw out the implicit picture of low-cost, low-power, open source options for environmental projects; tell a story about open source hardware thats linked to the principles of reproducibility, transparency, accessibility and peer review that inform research software development. 
+
+I'd use the fund to support interactive, hands-on workshops that bring together people from two different worlds that I have a foot in - research experts and field engineers in environmental science, in tune with the practical issues of deployment (like sheep trying to eat your sensors!) - and creative technologists and hobbyist inventors in the UK's network of hackerspaces.
 
 ## Workshop outline
 
