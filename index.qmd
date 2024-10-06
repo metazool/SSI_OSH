@@ -1,0 +1,163 @@
+---
+title: "Open Source Hardware for Environmental Monitoring - SSI Fellowship Application"
+author: Jo Walsh
+date: 06-10-2024
+format: 
+    revealjs:
+        transition: slide
+---
+
+## Open Source Hardware for Environmental Monitoring
+
+* SSI Fellowship
+* Workshop series 
+* Linking environmental scientists with enthusiast makers
+* Inform current and future UKRI supported projects
+
+
+## Where I'm based
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+* New RSE Group at the UK Centre for Ecology and Hydrology
+* Working across science areas - Atmospheric chemistry, Biodiversity, Pollution, Soils, Water Resources...
+* Building Digital Research Infrastructure for Open Science
+* _A new RSE Group, the first 100 days_ at RSECon 2024
+
+::: 
+
+::: {.column width="30%"}
+
+![](https://github.com/NERC-CEH/rse_group/blob/rsecon24-internal-pres/img/logo.png?raw=true)
+
+:::
+
+::::
+
+## Where I've been
+
+:::: {.columns}
+
+::: {.column width="55%"}
+
+* Specialised in Open Source GIS and Open Geodata
+* Past board member of OSGeo and Open Knowledge Foundation
+* Workshop and conference track organising
+* Constant advocacy for openness in working practises
+
+::: 
+
+::: {.column width="45%"}
+
+![At the Map Limehouse event in 2005 (in green)](https://wiki.openstreetmap.org/w/images/5/56/Map_limsehouse.jpg?20050717232246)
+
+:::
+
+::::
+
+
+## Field Sensors for Environmental Monitoring
+
+
+:::: {.columns}
+
+::: {.column width="55%"}
+
+* "Camera traps" and Bioacoustic sensors
+* Temperature and moisture sensors
+* Chemical composition of air and water
+* Complemented by satellite observation and lab analysis
+
+
+:::
+
+::: {.column width="45%"}
+
+![Airgradient DIY air quality sensor](https://www.airgradient.com/images/diy/ag_diy_complete.jpg)
+
+![Audiomoth acoustic datalogger development board](https://static.wixstatic.com/media/b31671_d94ec9ac024c4f01a4e5ce34a7ca2e44~mv2.jpg)
+
+:::
+
+::::
+
+
+## An Open Source Hardware Ethos
+
+* Open Science goes hand in hand with Open Source and Data
+* But we treat research hardware differently!
+* Reproducible, Transparent, Accessible, and Peer Reviewed
+* These principles should be embedded in our instruments! 
+
+
+## Research networks
+
+* Host several workshops across the UK
+* Low-cost, low-power sensing devices and networks
+* Bring together field researchers and enthusiast makers
+* Very participatory, interactive model including prototyping!
+
+
+## Goals
+
+* Documentation!
+  * Of the workshop model, to reproduce it
+  * Of discussions and concept designs for sensors
+* Sharing practical, hands-on electronics experience
+* Build links between enthusiasts and researchers
+* Set the scene for future innovation funding to include OSH
+
+
+## Sites
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+* Edinburgh (in either UKCEH or community-run workshop)
+* Bristol (in the Bristol Hackspace, hosted by Libby Miller)
+* (Cardiff / Bangor / Wallingford)
+
+:::
+
+::: {.column width="40%"}
+
+![COSMOS-UK soil moisture monitoring site in Waddesdon](https://uk-scape.ceh.ac.uk/sites/default/files/styles/half_and_half/public/2021-02/d8-half-cosmos-uk-Waddesdon-102093-1146x978.jpg?itok=Vc6arN7l)
+
+
+:::
+
+::::
+
+## Timing and Budget
+
+:::: {.columns}
+
+::: {.column width="55%"}
+
+* Late May 2025 for the workshop series
+* Edinburgh workshop as satellite of Open Hardware Summit
+* Budget of up to 1K per workshop includes hardware
+* Potential to support travel for those without institutional backing
+
+:::
+
+::: {.column width="40%"}
+
+![Open Source Hardware Summit, Edinburgh 2025](https://2025.oshwa.org/static/images/header.svg)
+
+:::
+
+::::
+
+
+## Conclusion 
+
+* Research Software Engineering principles to hardware
+* Bridges between "citizen science" and institutional projects
+* Multi-modal, open-ended environmental monitoring
+* Novel science, alive to & in mitigation of climate impact
+
+[https://github.com/metazool/SSI_OSH](https://github.com/metazool/SSI_OSH)
