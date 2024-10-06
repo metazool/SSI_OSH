@@ -6,9 +6,10 @@ date: 22-09-2024
 
 _Note: 6 minute timing requirement is tight, so writing it all out. "1 min. on professional background, 1 min on job role" and implicit networks, 4 mins on proposed Fellowship activity_
 
-Thank you for your consideration! My name is Jo, I'm a software engineer by background and have worked closely with research teams for the past dozen years. In the past I've done a lot of open source geospatial and open data work; 20 years ago, I did a lot of workshop and conference track organising through the Open Knowledge Foundation, for different forms of open access to geographic data including the start of OpenStreetmap.
+Hello there! My name is Jo, I'm one of those RSEs with a software engineering background, not a research one. I've been working closely with research teams for the past half decade. This is my first explicit RSE role, helping establish a new group at the UK Centre for Ecology and Hydrology. UKCEH is an environmental research not-for-profit that once formed part of NERC [wording from the 100 days talk here]
+We've got ambitious plans for joining the dots between science specialisms with next-generation Digital Research Infrastructure.
 
- I'm now working in a newly established Research Software Engineering team at the UK Centre for Ecology and Hydrology, an environmental research not-for-profit that was once part of NERC. Our team's role is to look across different areas of science specialisms, find common ground and build reusable services as part of "digital research infrastructure".
+Through my career I've done a lot of open source geospatial and open data work; my most active phase was 20 years ago! I was on the board of both the Open Source Geospatial Foundation and the Open Knowledge Foundation. Through the latter, I co-organised and ran quite a workshops and conference track on an Open Geodata theme - this picture shows me at "Map Limehouse", the first OpenStreetmap mapping party.
 
 ## Concept 
 
