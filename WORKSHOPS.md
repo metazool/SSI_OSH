@@ -14,12 +14,12 @@ Document the experience and cumulatively write a blueprint for running an equiva
 Workshop attendees (probably no more than 12 per site) are each provided a small starter kit (base board, battery) and a choice of a collection of sensors.
 
 ## Location and timing
-Series of several workshops, ideally on sequential days during the same week, during late Spring 2025, geographically distributed throughout the UK - either three or four depending on budget and local organising capacity.
+Series of several workshops, spaced fairly close together, starting late Spring 2025, geographically distributed throughout the UK - either three or four depending on budget and local organising capacity.
 
 * Edinburgh (workshop space in either the UK Centre for Ecology and Hydrology, or the Edinburgh Hacklab in the Summerhall arts complex
 * Bristol (Bristol Wireless / Bristol hackspace)
-* Cardiff (possible) - existing LoRaWAN network and outreach activity in the farming community
-* Wallingford (possible) - in the Engineering Workshop in the UK Centre for Ecology and Hydrology
+* Cardiff or Bangor (possible) - existing LoRaWAN network and outreach activity in the farming community
+* Wallingford (hopefully) - in the Engineering Workshop in the UK Centre for Ecology and Hydrology
 
 ## Sessions 
 
