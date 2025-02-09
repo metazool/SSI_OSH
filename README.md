@@ -1,3 +1,5 @@
+_This repository was for the original proposal and info-gathering. It is now archived and the project documentation is [Here on Codeberg](https://codeberg.org/zool/BetterHardware)_
+
 # Software Sustainability and Open Source Hardware
 
 Notes and links supporting an Open Source Hardware themed application to the SSI Fellowship scheme. 
